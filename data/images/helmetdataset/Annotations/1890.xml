@@ -1,0 +1,12 @@
+<annotation>
+		<filename>1890.jpg</filename>
+		<object>
+			<name>helmet</name>
+			<bndbox>
+				<xmin>1047</xmin>
+				<ymin>300</ymin>
+				<xmax>1083</xmax>
+				<ymax>328</ymax>
+			</bndbox>
+		</object>
+	</annotation>

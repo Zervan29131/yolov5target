@@ -1,0 +1,23 @@
+<annotation>
+		<filename>5141.jpg</filename>
+		<object>
+			<name>two_wheeler</name>
+			<ID>0</ID>
+			<bndbox>
+				<xmin>73</xmin>
+				<ymin>46</ymin>
+				<xmax>596</xmax>
+				<ymax>445</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>helmet</name>
+			<ID>0</ID>
+			<bndbox>
+				<xmin>249</xmin>
+				<ymin>52</ymin>
+				<xmax>324</xmax>
+				<ymax>133</ymax>
+			</bndbox>
+		</object>
+		</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+		<filename>0411.jpg</filename>
+		<object>
+			<name>without_helmet</name>
+			<bndbox>
+				<xmin>837</xmin>
+				<ymin>529</ymin>
+				<xmax>859</xmax>
+				<ymax>567</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>without_helmet</name>
+			<bndbox>
+				<xmin>862</xmin>
+				<ymin>523</ymin>
+				<xmax>894</xmax>
+				<ymax>565</ymax>
+			</bndbox>
+		</object>
+		</annotation>

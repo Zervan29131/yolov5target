@@ -1,0 +1,12 @@
+<annotation>
+		<filename>0900.jpg</filename>
+		<object>
+			<name>two_wheeler</name>
+			<bndbox>
+				<xmin>126</xmin>
+				<ymin>518</ymin>
+				<xmax>180</xmax>
+				<ymax>636</ymax>
+			</bndbox>
+		</object>
+	</annotation>
